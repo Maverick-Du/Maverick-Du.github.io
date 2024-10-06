@@ -7,45 +7,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>杜蘅</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Maverick-Du.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Oct 2024 22:38:30 +0800</lastBuildDate><atom:link href="https://Maverick-Du.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>学习经验</title>
+        <link>https://Maverick-Du.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C/</link>
+        <pubDate>Sun, 06 Oct 2024 22:38:30 +0800</pubDate>
+        
+        <guid>https://Maverick-Du.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://Maverick-Du.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Maverick-Du.github.io/categories/test/</guid>
         <description>&lt;img src="https://Maverick-Du.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>测试</title>
-        <link>https://Maverick-Du.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://Maverick-Du.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Syntax</title>
-        <link>https://Maverick-Du.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://Maverick-Du.github.io/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://Maverick-Du.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://Maverick-Du.github.io/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://Maverick-Du.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://Maverick-Du.github.io/categories/test-with-whitespaces/</guid>
-        <description></description>
         </item>
         
     </channel>
