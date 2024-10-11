@@ -7,7 +7,16 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>杜蘅</copyright>
-        <lastBuildDate>Sun, 06 Oct 2024 22:38:30 +0800</lastBuildDate><atom:link href="https://Maverick-Du.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 11 Oct 2024 10:57:56 +0800</lastBuildDate><atom:link href="https://Maverick-Du.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>C&#43;&#43;、go、java辨析</title>
+        <link>https://Maverick-Du.github.io/p/c-gojava%E8%BE%A8%E6%9E%90/</link>
+        <pubDate>Fri, 11 Oct 2024 10:57:56 +0800</pubDate>
+        
+        <guid>https://Maverick-Du.github.io/p/c-gojava%E8%BE%A8%E6%9E%90/</guid>
+        <description>&lt;p&gt;go语言没有三目运算符&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>何为笔记</title>
         <link>https://Maverick-Du.github.io/p/%E4%BD%95%E4%B8%BA%E7%AC%94%E8%AE%B0/</link>
         <pubDate>Sun, 06 Oct 2024 22:38:30 +0800</pubDate>
